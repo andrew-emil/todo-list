@@ -1,6 +1,6 @@
 import React from "react";
 import { useRef, useState } from "react";
-import "../node_modules/bootstrap/dist/css/bootstrap.css";
+import "../bootstrap.css";
 import "./app.css";
 
 const TodoList = () => {
